@@ -1,0 +1,90 @@
+
+Running Simulator with Specified configuration and Metadata:
+=============================================================
+
+ 0.000000, OS: Simulator Start
+ 0.000000, OS: Process 0 set to READY from NEW state 
+ 0.000000, OS: Process 1 set to READY from NEW state 
+ 0.000000, OS: Process 2 set to READY from NEW state 
+ 0.000000, OS: Process 3 set to READY from NEW state 
+ 0.000000, OS: Process 4 set to READY from NEW state 
+
+ 0.000000, OS: Process 0 selected with 1830 ms remaining
+ 0.000000, OS: Process 0 set to RUNNING from READY state 
+ 0.000002, OS: Process 0 hard drive input opertion start
+ 0.360291, OS: Process 0 hard drive input opertion end
+ 0.360294, OS: Process 0 cpu proccess operation start
+ 0.450399, OS: Process 0 cpu proccess operation end
+ 0.450401, OS: Process 0 cpu proccess operation start
+ 0.540489, OS: Process 0 cpu proccess operation end
+ 0.540493, OS: Process 0 cpu proccess operation start
+ 0.630599, OS: Process 0 cpu proccess operation end
+ 0.630603, OS: Process 0 monitor output operation start
+ 1.830694, OS: Process 0 monitor output operation end
+ 1.830699, OS: Process 0 set to TERMINATED from RUNNING state 
+ 1.830709, OS: Process 0 ended
+
+ 1.830711, OS: Process 1 selected with 2160 ms remaining 
+ 1.830713, OS: Process 1 set to RUNNING from READY state 
+ 1.830715, OS: Process 1 sound signal input opertion start
+ 2.630892, OS: Process 1 sound signal input opertion end
+ 2.630896, OS: Process 1 mem memory allocate request (2048, 4096)
+ 2.630898, OS: Process 1 hard drive input opertion start
+ 3.230999, OS: Process 1 hard drive input opertion end
+ 3.231003, OS: Process 1 mem memory allocate request (2760, 2890)
+ 3.231005, OS: Process 1 sound signal input opertion start
+ 3.731113, OS: Process 1 sound signal input opertion end
+ 3.731117, OS: Process 1 cpu proccess operation start
+ 3.791204, OS: Process 1 cpu proccess operation end
+ 3.791208, OS: Process 1 mem memory allocate request (3000, 4000)
+ 3.791217, OS: Process 1 usb output operation start
+ 3.991825, OS: Process 1 usb output operation end
+ 3.991829, OS: Process 1 mem memory allocate request (3500, 3700)
+ 3.991832, OS: Process 1 set to TERMINATED from RUNNING state 
+ 3.991833, OS: Process 1 ended
+
+ 3.991834, OS: Process 2 selected with 3350 ms remaining 
+ 3.991836, OS: Process 2 set to RUNNING from READY state 
+ 3.991838, OS: Process 2 video signal input opertion start
+ 5.391923, OS: Process 2 video signal input opertion end
+ 5.391927, OS: Process 2 cpu proccess operation start
+ 5.492026, OS: Process 2 cpu proccess operation end
+ 5.492031, OS: Process 2 monitor output operation start
+ 6.892116, OS: Process 2 monitor output operation end
+ 6.892120, OS: Process 2 hard drive input opertion start
+ 7.252227, OS: Process 2 hard drive input opertion end
+ 7.252232, OS: Process 2 cpu proccess operation start
+ 7.342315, OS: Process 2 cpu proccess operation end
+ 7.342320, OS: Process 2 set to TERMINATED from RUNNING state 
+ 7.342322, OS: Process 2 ended
+
+ 7.342323, OS: Process 3 selected with 4770 ms remaining 
+ 7.342325, OS: Process 3 set to RUNNING from READY state 
+ 7.342327, OS: Process 3 sound signal input opertion start
+ 8.042460, OS: Process 3 sound signal input opertion end
+ 8.042464, OS: Process 3 monitor output operation start
+10.042563, OS: Process 3 monitor output operation end
+10.042567, OS: Process 3 keyboard input opertion start
+11.042662, OS: Process 3 keyboard input opertion end
+11.042666, OS: Process 3 cpu proccess operation start
+11.132777, OS: Process 3 cpu proccess operation end
+11.132782, OS: Process 3 video signal output operation start
+12.112866, OS: Process 3 video signal output operation end
+12.112871, OS: Process 3 set to TERMINATED from RUNNING state 
+12.112872, OS: Process 3 ended
+
+12.112874, OS: Process 4 selected with 3640 ms remaining 
+12.112876, OS: Process 4 set to RUNNING from READY state 
+12.112878, OS: Process 4 keyboard input opertion start
+13.912993, OS: Process 4 keyboard input opertion end
+13.912999, OS: Process 4 sound signal output operation start
+14.713102, OS: Process 4 sound signal output operation end
+14.713107, OS: Process 4 serial output operation start
+15.353214, OS: Process 4 serial output operation end
+15.353219, OS: Process 4 cpu proccess operation start
+15.453302, OS: Process 4 cpu proccess operation end
+15.453313, OS: Process 4 hard drive input opertion start
+15.753469, OS: Process 4 hard drive input opertion end
+15.753474, OS: Process 4 set to TERMINATED from RUNNING state 
+15.753476, OS: Process 4 ended
+
